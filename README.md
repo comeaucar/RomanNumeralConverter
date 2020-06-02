@@ -1,11 +1,11 @@
 # roman-numeral-converter
 My solution to freecodecamp.org Roman Numeral Converter question
 
-Instructions to the challenge:
+Instructions for the challenge:
 
-Convert the given number into a roman numeral.
+"Convert the given number into a roman numeral.
 
-All roman numerals answers should be provided in upper-case.
+All roman numerals answers should be provided in upper-case."
 
 
 Input examples:
